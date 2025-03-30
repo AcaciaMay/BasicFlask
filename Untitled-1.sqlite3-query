@@ -1,0 +1,7 @@
+-- database: ./database.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+SELECT * FROM Bikes;
+
+INSERT INTO Bikes(Model,TopSpeed,Cost,Description) VALUES("MT-03",108,5300,"The Yamaha MT-03 is a MT series single-cylinder, later parallel twin-cylinder naked motorcycle produced by Yamaha Motor Company since 2006 to 2014, and 2016 to present. It is available worldwide.")
